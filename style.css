@@ -1,0 +1,110 @@
+body{
+    background-image: url("MisiowoBack.jpg"); 
+    background-size: cover;
+    background-repeat: repeat;
+    padding: 20px;
+
+    
+}
+
+#carousel img{
+   
+    opacity: 0.9;
+    align-items: center;
+    border-radius: 15px; 
+ 
+    
+    
+}
+
+#main, #carousel{
+    background-color:rgba(158, 113, 79, 0.8) ;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15px; 
+   
+
+}
+.carousel{
+    -webkit-box-shadow: 0px 0px 78px -52px rgba(85, 55, 39, 1);
+    -moz-box-shadow: 0px 0px 78px -52px rgba(85, 55, 39, 1);
+    box-shadow: 0px 0px 78px -52px rgba(85, 55, 39, 1);
+}
+.navbar{
+    background-color: #E5CEB4;
+    border-radius: 15px; 
+}
+
+.navbar-brand{
+    width: 6%;
+}
+
+.nav-link a{
+    color: #553727;
+}
+
+.article{
+    background-color: #E5CEB4;
+    margin-top: 3%;
+    border-radius: 15px; 
+    padding: 3%;
+    -webkit-box-shadow: 0px 0px 78px -26px rgba(85, 55, 39, 1);
+    -moz-box-shadow: 0px 0px 78px -26px rgba(85, 55, 39, 1);
+    box-shadow: 0px 0px 78px -26px rgba(85, 55, 39, 1);
+   
+}
+
+#carousel #button button{
+   
+    margin-top: 20px;
+    width: 100%;
+  
+   
+}
+
+
+.zdjecie{
+   background-image: url(MisiowoZdjecie.png);
+   background-size: cover;
+   background-position: center;
+   opacity: 0.9;
+   height: 300px;
+}
+
+.zdjeciea{
+    background-image: url(MisiowoZdjecie1.jpg);
+    background-size: cover;
+    background-position: center;
+    opacity: 0.9;
+    height: 300px;
+}
+
+.zdjecieb{
+    background-image: url(MisiowoZdjecie2.jpg);
+    background-size: cover;
+    background-position: center;
+    opacity: 0.9;
+    height: 300px;
+}
+
+.toast-header img{
+    width: 20px;
+}
+
+.me-auto{
+    color:#553727 ;
+}
+   
+.margin{
+    margin-top:3%;
+}
+
+.navbar{
+    -webkit-box-shadow: 0px 0px 78px -26px rgba(85, 55, 39, 1);
+-moz-box-shadow: 0px 0px 78px -26px rgba(85, 55, 39, 1);
+box-shadow: 0px 0px 78px -26px rgba(85, 55, 39, 1);
+}
+
+
+
+    
